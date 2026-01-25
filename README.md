@@ -49,7 +49,7 @@ Port 22 (SSH ): 🟢 CLOSED
 
 • Open ports found: 0
 
-... (Full output in screenshots)
+... (Full output in output file)
 
 
 ## 🎓 Learning Outcomes
