@@ -1,0 +1,54 @@
+============================================================
+        SOC SECURITY MONITORING TOOL
+============================================================
+For BBD Bursary Application - Cybersecurity Focus
+============================================================
+
+[1] 📊 SYSTEM INFORMATION
+----------------------------------------
+• Hostname: onecompiler
+• Operating System: Linux
+• Python Version: 3.8.10
+• Scan Time: 2024-03-20 14:30:00
+
+[2] 🔍 PORT SECURITY ASSESSMENT
+----------------------------------------
+Checking common ports on localhost...
+   Port   21 (FTP   ): 🟢 CLOSED
+   Port   22 (SSH   ): 🟢 CLOSED
+   Port   23 (Telnet): 🟢 CLOSED
+   Port   25 (SMTP  ): 🟢 CLOSED
+   Port   53 (DNS   ): 🟢 CLOSED
+   Port   80 (HTTP  ): 🟢 CLOSED
+   Port  443 (HTTPS ): 🟢 CLOSED
+   Port 3389 (RDP   ): 🟢 CLOSED
+
+[3] 📋 GENERATING SECURITY REPORT
+----------------------------------------
+   • Open ports found: 0
+
+[4] 🔄 SOC ANALYST WORKFLOW
+----------------------------------------
+   1. MONITOR: Continuous security monitoring
+   2. DETECT: Identify potential threats
+   3. ANALYZE: Investigate security events
+   4. RESPOND: Contain and eradicate threats
+   5. REPORT: Document and improve processes
+
+============================================================
+                    SCAN COMPLETE
+============================================================
+✅ Project: SOC Security Monitoring Tool
+✅ Created: For BBD Bursary Application
+✅ Purpose: Demonstrate cybersecurity skills
+✅ Status: Tool executed successfully
+
+📚 This project demonstrates:
+   • Understanding of network security concepts
+   • Python programming for security tools
+   • SOC monitoring workflows
+   • Security reporting and documentation
+
+============================================================
+           END OF REPORT
+============================================================
