@@ -14,7 +14,7 @@ This project was created to showcase:
 - Professional documentation and reporting
 
 ## 🚀 Live Demo
-The code runs successfully on OneCompiler: [View Live Run](https://onecompiler.com/python)
+The code runs successfully on OneCompiler: copy file into OneCompiler, soc_monitor.py
 
 ## 📋 Features
 - **System Information Gathering** - Hostname, OS, scan time
